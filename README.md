@@ -17,4 +17,4 @@ Para mantener este repositorio lo mas limpio posible te pedimos por favor _**Rev
 
 Queda **Estrictamente prohibido** subir cualquier tipo de descarga o ejecutable al repositorio, en dado caso de querer proveer contenido multimedia o codigo utiliza servicios en **nube** para proveer este material, algunos ejemplos de estos pueden ser azure, codepen (en caso de codigo), Gcloud, Youtube, AmazonAWS, entre otros esto para mantener la seguridad de las personas y de sus equipos de computo. 
 
-En caso de utilizar fuentes externas de algún material académico, científico o en general algún material que no sea de tu autoría, <h2>OBLIGATORIAMENTE</h2> debes citar y referenciar en su caso las fuentes de donde fue extraída la información, en caso de NO contar con esto, el material será eliminado.
+En caso de utilizar fuentes externas de algún material académico, científico o en general algún material que no sea de tu autoría, **OBLIGATORIAMENTE** debes citar y referenciar en su caso las fuentes de donde fue extraída la información, en caso de NO contar con esto, el material será eliminado.
