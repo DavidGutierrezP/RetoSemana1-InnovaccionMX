@@ -43,7 +43,14 @@ Estos son muy similares a las VM's sin embargo, estos no requieren un sistema op
 
 Este tipo de modelo se basa en que puedas correr tu aplicación sin que tengas la preocupación de actualizar, configurar, crear y mantener un servidor, la idea, es que tu aplicación se fragmente en varias funciones que, corran cuando sean activadas o "llamadas" por algún evento, este tipo de modelo es ideal para tareas que quieras que sean automáticas.
 
+Aquí te dejamos un diagrama<sup>1</sup> para que tengas una mejor idea de como funcionan estos modelos.
 
+<p align="center">
+  
+<img src="/resources/Diagramas.PNG">
+
+  </p>
+  
 <h1>Fuentes</h1>
 1. Bulens, H., 2019. Azure Fundamentals. 1st ed. HENDRIK BULENS, pp.1-3.
 
