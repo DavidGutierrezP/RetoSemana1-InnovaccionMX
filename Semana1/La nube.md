@@ -35,6 +35,14 @@ es la encargada de proteger el núcleo o centro de la cebolla, y finalmente tene
 2. Datacenter: Un datacenter es un lugar en alguna parte del planeta (o de la galaxia) en la cuál se encuentra en groso modo, grandes cantidades de hardware almacenado que está trabajando 24/7
 Puedes pensarlo como un callcenter, un único lugar donde se encuentran muchas personas atendiendo llamadas.
 
+<h2>Containers</h2>
+
+Estos son muy similares a las VM's sin embargo, estos no requieren un sistema operativo, este tipo de soluciones lo que hace es que la aplicación que quieres correr y todas sus dependencias, se insertan en un tipo de contenedor y cuando el programa es ejecutado es justo cuando el contenedor manda información e instrucciones al hardware de la computadora, por lo que es útil a la hora de ahorrar recursos ya que no ocupamos un sistema operativo.
+
+<h2> Serverless computing </h2>
+
+Este tipo de modelo se basa en que puedas correr tu aplicación sin que tengas la preocupación de actualizar, configurar, crear y mantener un servidor, la idea, es que tu aplicación se fragmente en varias funciones que, corran cuando sean activadas o "llamadas" por algún evento, este tipo de modelo es ideal para tareas que quieras que sean automáticas.
+
 
 <h1>Fuentes</h1>
 1. Bulens, H., 2019. Azure Fundamentals. 1st ed. HENDRIK BULENS, pp.1-3.
